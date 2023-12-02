@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DisaraMethmali](https://github.com/DisaraMethmali)
+- 👨‍💻 All of my projects are available at [[https://github.com/DisaraMethmali](https://github.com/DisaraMethmali?tab=repositories)]
 
 - 💬 Ask me about **Java**
 
