@@ -6,13 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **MERN project**
 
-- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/DisaraMethmali](https://github.com/DisaraMethmali?tab=repositories)]
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **disaramethmali2001@gmail.com**
 
