@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Disara Methmali</h1>
 
+![Capture12](https://github.com/DisaraMethmali/DisaraMethmali/assets/128726645/b43c3d43-4e53-4ba9-8750-9afab84995cd)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=disaramethmali&label=Profile%20views&color=0e75b6&style=flat" alt="disaramethmali" /> </p>
 
