@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://github.com/DisaraMethmali](https://github.com/DisaraMethmali?tab=repositories)]
 
-- 📫 How to reach me **disaramethmali2001@gmail.com**
+- 📫 How to reach me **disara.meth@gmail.com**
 
 ## 🌐 Socials:
 <p align="left">
